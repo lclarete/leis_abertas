@@ -32,3 +32,7 @@ Convidar o Senado Federal para participar das discussões;
 Congresso em Foco
 Google News Lab
 Jota
+Open Knowledge Foundation
+Observatory of Public Sector Innovation
+Inova Gov
+Rede Gov.br
