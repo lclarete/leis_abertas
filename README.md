@@ -36,3 +36,8 @@ Open Knowledge Foundation
 Observatory of Public Sector Innovation
 Inova Gov
 Rede Gov.br
+
+
+Projeto de scrape do diário oficial: https://github.com/okfn-brasil/diario-oficial
+
+Projeto Legislativo Aberto: http://www.acessoainformacao.gov.br/assuntos/conheca-seu-direito/principais-aspectos/principais-aspectos
